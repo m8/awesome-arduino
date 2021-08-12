@@ -22,8 +22,8 @@
 
 ### Boards
 
-- [Arduino Uno Rev3](https://store.arduino.cc/usa/arduino-uno-rev3)
-- [Arduino Mega 2560 Rev3](https://store.arduino.cc/usa/mega-2560-r3)
+- [Arduino Uno Rev3](https://store.arduino.cc/usa/arduino-uno-rev3) Most popular Arduino board in market
+- [Arduino Mega 2560 Rev3](https://store.arduino.cc/usa/mega-2560-r3) 
 - [Arduino Nano](https://store.arduino.cc/usa/arduino-nano)
 - [Arduino Micro](https://store.arduino.cc/usa/arduino-zero)
 - [Arduino Leonardo](https://store.arduino.cc/usa/leonardo)
@@ -48,13 +48,15 @@
   
 ### CAD
 
-- [Fritzing](https://fritzing.org/)
+- [Fritzing](https://fritzing.org/) Easy to use CAD software for prototyping circuits and creating PCB's.
 
 
 ## Projects
 
-- [Arduino Radar Project](https://www.youtube.com/watch?v=kQRYIH2HwfY)
+- [Arduino Radar Project](https://www.youtube.com/watch?v=kQRYIH2HwfY) Radar project with #HC-SR04 #Processing
 - [Collin's Lab: Guitar pedal hacking with Arduino](https://www.youtube.com/watch?v=_X0bL6WS-VY)
+- [Potted Plant Protector](https://www.youtube.com/watch?v=B8F44CyJRRA) Monitor health of the plant with Arduino UNO
+
 
 ## Resources
 
