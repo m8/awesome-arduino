@@ -8,31 +8,15 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 
 ---
 
-
-
 ## Contents
-- [Awesome Arduino](#awesome-arduino)
-  - [Contents](#contents)
-  - [Hardware](#hardware)
-    - [Boards](#boards)
-    - [Shields](#shields)
-  - [Software](#software)
-    - [IDE](#ide)
-    - [Simulators](#simulators)
-    - [CAD](#cad)
-  - [Projects](#projects)
-  - [Resources](#resources)
-    - [Books](#books)
-    - [Tutorials](#tutorials)
-      - [Software (or Embedded Software)](#software-or-embedded-software)
-      - [Hardware](#hardware-1)
-    - [Talks](#talks)
-  - [Community](#community)
-  - [Contributing](#contributing)
-  - [License](#license)
-
+- [Hardware](#hardware)
+- [Software](#software)
+- [Projects](#projects)
+- [Resources](#resources)
+- [Community](#community)
+- [Contributing](#contributing)
+- [License](#license)
 ---
-
 
 
 ## Hardware
@@ -81,6 +65,7 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [Brainwave and Blink-Controlled Miniature Wheelchair](https://www.youtube.com/watch?v=iFBhTHGXcMQ) #arduino-uno #android #neurosky
 - [Powerful Electric Motorized Longboard](https://www.youtube.com/watch?v=XworvxoQleY) arduino powered diy electric longboard
 - [Tele-Touch](https://www.youtube.com/watch?v=tMYQEaX3TbA) robotic system that mimicks user’s finger motions
+
 
 ## Resources
 
