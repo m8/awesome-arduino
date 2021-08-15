@@ -1,12 +1,12 @@
 # Awesome Arduino
 
-<a href="https://www.arduino.cc"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" alt="Arduino Logo" align="left" style="margin-right: 25px" height=200></a>
+<a href="https://www.arduino.cc"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" alt="Arduino Logo" align="left" style="margin-right: 25px" height=100px></a>
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Arduino is an open-source physical computing platform based on a simple I/O board and a development environment that implements the Processing/Wiring language. Arduino can be used to develop stand-alone interactive objects or can be connected to software on your computer. Official Link: [Arduino](https://arduino.cc)
 
-
-
-
+---
 
 
 
@@ -24,9 +24,16 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
   - [Resources](#resources)
     - [Books](#books)
     - [Tutorials](#tutorials)
+      - [Software (or Embedded Software)](#software-or-embedded-software)
+      - [Hardware](#hardware-1)
     - [Talks](#talks)
   - [Community](#community)
   - [Contributing](#contributing)
+  - [License](#license)
+
+---
+
+
 
 ## Hardware
 
@@ -72,7 +79,8 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [8x8x8 Led Cube](https://www.youtube.com/watch?v=T5Aq7cRc-mU)
 - [Wireless Arduino Powered Chess](https://www.youtube.com/watch?v=dX37LFv8jWY) Wireless chess powered with #Arduino
 - [Brainwave and Blink-Controlled Miniature Wheelchair](https://www.youtube.com/watch?v=iFBhTHGXcMQ) #arduino-uno #android #neurosky
-
+- [Powerful Electric Motorized Longboard](https://www.youtube.com/watch?v=XworvxoQleY) arduino powered diy electric longboard
+- [Tele-Touch](https://www.youtube.com/watch?v=tMYQEaX3TbA) robotic system that mimicks user’s finger motions
 
 ## Resources
 
@@ -83,10 +91,16 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 
 ### Tutorials
 
+#### Software (or Embedded Software)
+
 - [An Introduction to the Arduino](https://www.youtube.com/watch?v=CqrQmQqpHXc)
 - [Level Up Your Arduino Code: Registers](https://www.youtube.com/watch?v=6q1yEb_ukw8)
 - [Level Up Your Arduino Code: Timer Interrupts](https://www.youtube.com/watch?v=2kr5A350H7E)
 - [Level Up Your Arduino Code: External Interrupts](https://www.youtube.com/watch?v=J61_PKyWjxU)
+
+#### Hardware
+
+- [Servos And How To Use Them](https://www.youtube.com/watch?v=J8atdmEqZsc)
 - [How to Make Custom Shields for Your Microcontroller Board](https://www.youtube.com/watch?v=0Hw6-1Gk8eI)
 
 ### Talks
@@ -101,3 +115,7 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [Project Hub](https://create.arduino.cc/projecthub)
 
 ## Contributing
+
+Please see contributing file.
+
+## License
