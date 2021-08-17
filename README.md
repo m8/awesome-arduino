@@ -33,7 +33,8 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [Arduino Education Shield](https://store.arduino.cc/usa/education-shield)
 - [Arduino Motor Shield Rev3](https://store.arduino.cc/usa/arduino-motor-shield-rev3)
 - [Arduino Ethernet Shield 2](https://store.arduino.cc/usa/arduino-ethernet-shield-2)
-
+- [Adafruit Touch Shield for Arduino with Resistive Touch Screen](https://www.adafruit.com/product/1651)
+- [Adafruit 16-Channel 12-bit PWM/Servo Shield](https://www.adafruit.com/product/1411)
 
 ## Software
 
@@ -55,6 +56,13 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 
 ## Projects
 
+### Arduino-based Platforms
+
+- [Ardupilot](https://ardupilot.org/) Versatile, Trusted, Open Autopilot software for drones and other autonomous systems
+- [Marlin](https://marlinfw.org) Marlin is an open source firmware for 3D printers.
+
+### DIY
+
 - [Arduino Radar Project](https://www.youtube.com/watch?v=kQRYIH2HwfY) Radar project with #HC-SR04 #Processing
 - [Collin's Lab: Guitar pedal hacking with Arduino](https://www.youtube.com/watch?v=_X0bL6WS-VY)
 - [Potted Plant Protector](https://www.youtube.com/watch?v=B8F44CyJRRA) Monitor health of the plant with #Arduino-UNO
@@ -62,7 +70,8 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [Wireless Arduino Powered Chess](https://www.youtube.com/watch?v=dX37LFv8jWY) Wireless chess powered with #Arduino
 - [Brainwave and Blink-Controlled Miniature Wheelchair](https://www.youtube.com/watch?v=iFBhTHGXcMQ) #arduino-uno #android #neurosky
 - [Powerful Electric Motorized Longboard](https://www.youtube.com/watch?v=XworvxoQleY) arduino powered diy electric longboard
-- [Tele-Touch](https://www.youtube.com/watch?v=tMYQEaX3TbA) robotic system that mimicks user’s finger motions
+- [Tele-Touch](https://www.youtube.com/watch?v=tMYQEaX3TbA) Robotic system that mimicks user’s finger motions
+- [Solar Tracker](https://www.youtube.com/watch?v=_6QIutZfsFs) Solar panel that follow the movement of the sun throughout the day
 
 
 ## Resources
@@ -96,6 +105,7 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [Arduino Stack Exchange](https://arduino.stackexchange.com/)
 - [Discord Group](https://discord.gg/jQJFwW7)
 - [Project Hub](https://create.arduino.cc/projecthub)
+- [Reddit](https://www.reddit.com/r/arduino/)
 
 ## Contributing
 
