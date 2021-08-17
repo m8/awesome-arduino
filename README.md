@@ -72,6 +72,10 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [Powerful Electric Motorized Longboard](https://www.youtube.com/watch?v=XworvxoQleY) arduino powered diy electric longboard
 - [Tele-Touch](https://www.youtube.com/watch?v=tMYQEaX3TbA) Robotic system that mimicks user’s finger motions
 - [Solar Tracker](https://www.youtube.com/watch?v=_6QIutZfsFs) Solar panel that follow the movement of the sun throughout the day
+- [Arduino Gimbal](https://www.youtube.com/watch?v=UxABxSADZ6U) Educational purpose gimbal build with servos and gyroscope
+- [Motorized Camera Slider](https://www.youtube.com/watch?v=hEBjbSTLytk)
+- [Micro Servo Robot](https://www.youtube.com/watch?v=bLnAJ-mSElE&t=0s) 4 axis robot arm with a small gripper and teach function
+- [Stack Playing Robot](https://www.youtube.com/watch?v=uOsphjtf9Dk) Simple robot that plays Stack
 
 
 ## Resources
