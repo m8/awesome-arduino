@@ -93,6 +93,7 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [Ardupilot](https://ardupilot.org/) - Versatile, Trusted, Open Autopilot software for drones and other autonomous systems
 - [Marlin](https://marlinfw.org) - Marlin is an open source firmware for 3D printers.
 - [QMK](https://github.com/qmk/qmk_firmware) - Build your own mechanical keyboard
+- [mBot](https://www.makeblock.com/) - mBot is a low-cost and easy-to-use robot kit designed for children to use and learn to program.
 
 
 ## 📃 Resources
@@ -101,6 +102,11 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 
 - [Arduino For Dummies](https://www.amazon.com/gp/product/1119489547)
 - [Getting Started with Arduino](https://www.amazon.com/dp/1449363334)
+
+### Talks
+
+- [How Arduino is open-sourcing imagination](https://www.youtube.com/watch?v=UoBUXOOdLXY)
+- [State of Arduino: Massimo Banzi at Maker Faire Bay Area 2019](https://www.youtube.com/watch?v=t1MN5o-qeyQ)
 
 ### Tutorials
 
@@ -122,10 +128,6 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [Servos And How To Use Them](https://www.youtube.com/watch?v=J8atdmEqZsc)
 - [How to Make Custom Shields for Your Microcontroller Board](https://www.youtube.com/watch?v=0Hw6-1Gk8eI)
 
-### Talks
-
-- [How Arduino is open-sourcing imagination](https://www.youtube.com/watch?v=UoBUXOOdLXY)
-- [State of Arduino: Massimo Banzi at Maker Faire Bay Area 2019](https://www.youtube.com/watch?v=t1MN5o-qeyQ)
 
 ## 🌍 Community
 
