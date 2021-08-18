@@ -14,6 +14,8 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [Community](#community)
 - [Contributing](#contributing)
 - [License](#license)
+
+
 ---
 
 ## Official
@@ -24,15 +26,15 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [Store](https://store.arduino.cc/usa/)
 
 
-## Hardware
+## ⚙️ Hardware 
 
-### Boards
+### Boards 
 
-- [Arduino Uno Rev3](https://store.arduino.cc/usa/arduino-uno-rev3) Most popular Arduino board in market
-- [Arduino Mega 2560 Rev3](https://store.arduino.cc/usa/mega-2560-r3) 
-- [Arduino Leonardo](https://store.arduino.cc/usa/leonardo) 
-- [Arduino Nano](https://store.arduino.cc/usa/arduino-nano) Good for small sized projects
-- [Arduino Micro](https://store.arduino.cc/usa/arduino-zero) Combination of Arduino Nano and Atmega32u4
+- [Arduino Uno Rev3](https://store.arduino.cc/usa/arduino-uno-rev3)-Most popular Arduino board in market
+- [Arduino Mega 2560 Rev3](https://store.arduino.cc/usa/mega-2560-r3)-
+- [Arduino Leonardo](https://store.arduino.cc/usa/leonardo)-
+- [Arduino Nano](https://store.arduino.cc/usa/arduino-nano)-Good for small sized projects
+- [Arduino Micro](https://store.arduino.cc/usa/arduino-zero)-Combination of Arduino Nano and Atmega32u4
 
 
 ### Shields
@@ -43,14 +45,14 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [Adafruit Touch Shield for Arduino with Resistive Touch Screen](https://www.adafruit.com/product/1651)
 - [Adafruit 16-Channel 12-bit PWM/Servo Shield](https://www.adafruit.com/product/1411)
 
-## Software
+## 💻 Software 
 
 ### IDE
 
-- [Arduino IDE](https://github.com/arduino/Arduino) Official Arduino IDE
-- [Arduino Editor](https://create.arduino.cc/editor) Official Online Arduino Editor
-- [S4A](http://s4a.cat/) Arduino can programmed over Scratch interface good for first begginers and kids.
-- [Visual Studio Code extension for Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino) Arduino Extenstion for Visual Studio
+- [Arduino IDE](https://github.com/arduino/Arduino)-Official Arduino IDE
+- [Arduino Editor](https://create.arduino.cc/editor)-Official Online Arduino Editor
+- [S4A](http://s4a.cat/)-Arduino can programmed over Scratch interface good for first begginers and kids.
+- [Visual Studio Code extension for Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)-Arduino Extenstion for Visual Studio
 - [Arduino IDE 2.x Beta](https://github.com/arduino/arduino-ide)
 
 ### Simulators
@@ -59,38 +61,39 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
   
 ### CAD
 
-- [Fritzing](https://fritzing.org/) Easy to use CAD software for prototyping Arduino circuits and creating PCB's.
+- [Fritzing](https://fritzing.org/)-Easy to use CAD software for prototyping Arduino circuits and creating PCB's.
 
 ### Useful Tools
 
 - [Arduino CLI](https://github.com/arduino/arduino-cli)
-- [Putty](https://www.putty.org/) Open-source serial console and terminal emulator
+- [Putty](https://www.putty.org/)-Open-source serial console and terminal emulator
 
 
-## Projects
+## 💡 Projects 
 
-- [Arduino Radar Project](https://www.youtube.com/watch?v=kQRYIH2HwfY) Radar project with #HC-SR04 #Processing
+- [Arduino Radar Project](https://www.youtube.com/watch?v=kQRYIH2HwfY)-Radar project with #HC-SR04 #Processing
 - [Collin's Lab: Guitar pedal hacking with Arduino](https://www.youtube.com/watch?v=_X0bL6WS-VY)
-- [Potted Plant Protector](https://www.youtube.com/watch?v=B8F44CyJRRA) Monitor health of the plant with #Arduino-UNO
+- [Potted Plant Protector](https://www.youtube.com/watch?v=B8F44CyJRRA)-Monitor health of the plant with #Arduino-UNO
 - [8x8x8 Led Cube](https://www.youtube.com/watch?v=T5Aq7cRc-mU)
-- [Wireless Arduino Powered Chess](https://www.youtube.com/watch?v=dX37LFv8jWY) Wireless chess powered with #Arduino
-- [Brainwave and Blink-Controlled Miniature Wheelchair](https://www.youtube.com/watch?v=iFBhTHGXcMQ) #arduino-uno #android #neurosky
-- [Powerful Electric Motorized Longboard](https://www.youtube.com/watch?v=XworvxoQleY) arduino powered diy electric longboard
-- [Tele-Touch](https://www.youtube.com/watch?v=tMYQEaX3TbA) Robotic system that mimicks user’s finger motions
-- [Solar Tracker](https://www.youtube.com/watch?v=_6QIutZfsFs) Solar panel that follow the movement of the sun throughout the day
-- [Arduino Gimbal](https://www.youtube.com/watch?v=UxABxSADZ6U) Educational purpose gimbal build with servos and gyroscope
+- [Wireless Arduino Powered Chess](https://www.youtube.com/watch?v=dX37LFv8jWY)-Wireless chess powered with #Arduino
+- [Brainwave and Blink-Controlled Miniature Wheelchair](https://www.youtube.com/watch?v=iFBhTHGXcMQ)-#arduino-uno #android #neurosky
+- [Powerful Electric Motorized Longboard](https://www.youtube.com/watch?v=XworvxoQleY)-arduino powered diy electric longboard
+- [Tele-Touch](https://www.youtube.com/watch?v=tMYQEaX3TbA)-Robotic system that mimicks user’s finger motions
+- [Solar Tracker](https://www.youtube.com/watch?v=_6QIutZfsFs)-Solar panel that follow the movement of the sun throughout the day
+- [Arduino Gimbal](https://www.youtube.com/watch?v=UxABxSADZ6U)-Educational purpose gimbal build with servos and gyroscope
 - [Motorized Camera Slider](https://www.youtube.com/watch?v=hEBjbSTLytk)
-- [Micro Servo Robot](https://www.youtube.com/watch?v=bLnAJ-mSElE&t=0s) 4 axis robot arm with a small gripper and teach function
-- [Stack Playing Robot](https://www.youtube.com/watch?v=uOsphjtf9Dk) Simple robot that plays Stack
+- [Micro Servo Robot](https://www.youtube.com/watch?v=bLnAJ-mSElE&t=0s)-4 axis robot arm with a small gripper and teach function
+- [Stack Playing Robot](https://www.youtube.com/watch?v=uOsphjtf9Dk)-Simple robot that plays Stack
+- [Arduino Drone](https://www.youtube.com/watch?v=if9LZTcy_uk)
 
 
 ## Arduino-based Platforms
 
-- [Ardupilot](https://ardupilot.org/) Versatile, Trusted, Open Autopilot software for drones and other autonomous systems
-- [Marlin](https://marlinfw.org) Marlin is an open source firmware for 3D printers.
+- [Ardupilot](https://ardupilot.org/)-Versatile, Trusted, Open Autopilot software for drones and other autonomous systems
+- [Marlin](https://marlinfw.org)-Marlin is an open source firmware for 3D printers.
 
 
-## Resources
+## 📃 Resources
 
 ### Books
 
@@ -99,12 +102,18 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 
 ### Tutorials
 
-#### Software (or Embedded Software)
+#### Internals
 
 - [An Introduction to the Arduino](https://www.youtube.com/watch?v=CqrQmQqpHXc)
-- [Level Up Your Arduino Code: Registers](https://www.youtube.com/watch?v=6q1yEb_ukw8)
-- [Level Up Your Arduino Code: Timer Interrupts](https://www.youtube.com/watch?v=2kr5A350H7E)
-- [Level Up Your Arduino Code: External Interrupts](https://www.youtube.com/watch?v=J61_PKyWjxU)
+- [Registers](https://www.youtube.com/watch?v=6q1yEb_ukw8)
+- [Timer Interrupts](https://www.youtube.com/watch?v=2kr5A350H7E)
+- [External Interrupts](https://www.youtube.com/watch?v=J61_PKyWjxU)
+- [Library, Port Manipulation, Bit Math, Faster PWM/ADC](https://www.youtube.com/watch?v=EVm0qVJ56II)
+
+#### Software
+
+- [C# to Arduino Communication](https://www.youtube.com/watch?v=vHeG3Gt6STE)-Send data and commands from Computer to an Arduino
+- [Processing to Arduino Communication](https://www.youtube.com/watch?v=yOMglntmmnA)
 
 #### Hardware
 
@@ -113,9 +122,10 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 
 ### Talks
 
+- [How Arduino is open-sourcing imagination](https://www.youtube.com/watch?v=UoBUXOOdLXY)
 - [State of Arduino: Massimo Banzi at Maker Faire Bay Area 2019](https://www.youtube.com/watch?v=t1MN5o-qeyQ)
 
-## Community
+## 🌍 Community
 
 - [Arduino Forum](https://forum.arduino.cc/)
 - [Arduino Stack Exchange](https://arduino.stackexchange.com/)
