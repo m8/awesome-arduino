@@ -51,6 +51,7 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [Arduino Editor](https://create.arduino.cc/editor) Official Online Arduino Editor
 - [S4A](http://s4a.cat/) Arduino can programmed over Scratch interface good for first begginers and kids.
 - [Visual Studio Code extension for Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino) Arduino Extenstion for Visual Studio
+- [Arduino IDE 2.x Beta](https://github.com/arduino/arduino-ide)
 
 ### Simulators
 
@@ -60,15 +61,13 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 
 - [Fritzing](https://fritzing.org/) Easy to use CAD software for prototyping Arduino circuits and creating PCB's.
 
+### Useful Tools
+
+- [Arduino CLI](https://github.com/arduino/arduino-cli)
+- [Putty](https://www.putty.org/) Open-source serial console and terminal emulator
+
 
 ## Projects
-
-### Arduino-based Platforms
-
-- [Ardupilot](https://ardupilot.org/) Versatile, Trusted, Open Autopilot software for drones and other autonomous systems
-- [Marlin](https://marlinfw.org) Marlin is an open source firmware for 3D printers.
-
-### DIY
 
 - [Arduino Radar Project](https://www.youtube.com/watch?v=kQRYIH2HwfY) Radar project with #HC-SR04 #Processing
 - [Collin's Lab: Guitar pedal hacking with Arduino](https://www.youtube.com/watch?v=_X0bL6WS-VY)
@@ -83,6 +82,12 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [Motorized Camera Slider](https://www.youtube.com/watch?v=hEBjbSTLytk)
 - [Micro Servo Robot](https://www.youtube.com/watch?v=bLnAJ-mSElE&t=0s) 4 axis robot arm with a small gripper and teach function
 - [Stack Playing Robot](https://www.youtube.com/watch?v=uOsphjtf9Dk) Simple robot that plays Stack
+
+
+## Arduino-based Platforms
+
+- [Ardupilot](https://ardupilot.org/) Versatile, Trusted, Open Autopilot software for drones and other autonomous systems
+- [Marlin](https://marlinfw.org) Marlin is an open source firmware for 3D printers.
 
 
 ## Resources
