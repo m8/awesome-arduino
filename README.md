@@ -35,6 +35,7 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [Arduino Leonardo](https://store.arduino.cc/usa/leonardo) - 
 - [Arduino Nano](https://store.arduino.cc/usa/arduino-nano) - Good for small sized projects
 - [Arduino Micro](https://store.arduino.cc/usa/arduino-zero) - Combination of Arduino Nano and Atmega32u4
+- [Arduino Yún](https://store.arduino.cc/usa/arduino-yun) Retired
 
 
 ### Shields
@@ -44,6 +45,13 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [Arduino Ethernet Shield 2](https://store.arduino.cc/usa/arduino-ethernet-shield-2)
 - [Adafruit Touch Shield for Arduino with Resistive Touch Screen](https://www.adafruit.com/product/1651)
 - [Adafruit 16-Channel 12-bit PWM/Servo Shield](https://www.adafruit.com/product/1411)
+
+### Compatible Boards
+
+- 
+
+### Software Compatible Boards
+
 
 ## 💻 Software 
 
@@ -86,6 +94,7 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [Stack Playing Robot](https://www.youtube.com/watch?v=uOsphjtf9Dk) - Simple robot that plays Stack
 - [Arduino Drone](https://www.youtube.com/watch?v=if9LZTcy_uk)
 - [Arduino Garden Controller](https://www.youtube.com/watch?v=O_Q1WKCtWiA) - Automatic watering and data logging and gardening
+- [Arduino Soldering Station](https://www.youtube.com/watch?v=UvH49nzpJts)
 
 
 ## Arduino-based Platforms
@@ -125,8 +134,10 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 
 #### Hardware
 
-- [Servos And How To Use Them](https://www.youtube.com/watch?v=J8atdmEqZsc)
+- [Servos And How To Use Them With Arduino](https://www.youtube.com/watch?v=J8atdmEqZsc)
+- [Stepper Motors and How To Use Them With Arduino](https://www.youtube.com/watch?v=bkqoKWP4Oy4)
 - [How to Make Custom Shields for Your Microcontroller Board](https://www.youtube.com/watch?v=0Hw6-1Gk8eI)
+- [How to Solder Properly](https://www.youtube.com/watch?v=VxMV6wGS3NY)
 
 
 ## 🌍 Community
