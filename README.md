@@ -73,8 +73,9 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 
 ### Useful Tools
 
-- [Arduino CLI](https://github.com/arduino/arduino-cli)
+- [Arduino CLI](https://github.com/arduino/arduino-cli) - Command line interface for Arduino sketches, libraries, boards, etc.
 - [Putty](https://www.putty.org/) - Open-source serial console and terminal emulator
+- [Johnny-Five](https://github.com/rwaldron/johnny-five) - The JavaScript robotics programming framework for Arduino
 
 
 ## 💡 Projects 
