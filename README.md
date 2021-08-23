@@ -122,10 +122,8 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 #### Internals
 
 - [An Introduction to the Arduino](https://www.youtube.com/watch?v=CqrQmQqpHXc)
-- [Registers](https://www.youtube.com/watch?v=6q1yEb_ukw8)
-- [Timer Interrupts](https://www.youtube.com/watch?v=2kr5A350H7E)
-- [External Interrupts](https://www.youtube.com/watch?v=J61_PKyWjxU)
-- [Library, Port Manipulation, Bit Math, Faster PWM/ADC](https://www.youtube.com/watch?v=EVm0qVJ56II)
+- [Level Up Your Arduino Code](https://www.youtube.com/watch?v=mhSW_5iuy5k&list=PL1UO27YmKW8P8BlRTncqQ1x_wvFiHu8HI) - Playlist from Sparkfun Electronics
+- [Library, Port Manipulation, Bit Math, Faster PWM/ADC](https://www.youtube.com/watch?v=EVm0qVJ56II) 
 
 #### Software
 
