@@ -1,10 +1,12 @@
 # Awesome Arduino [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![](assets/banner.png)
 
 <a href="https://www.arduino.cc"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png" alt="Arduino Logo" align="left" style="margin-right: 25px" height=100px></a>
 
 
 Arduino is an open-source physical computing platform based on a simple I/O board and a development environment that implements the Processing/Wiring language. Arduino can be used to develop stand-alone interactive objects or can be connected to software on your computer. Official Link: [Arduino](https://arduino.cc)
+
 
 ## Contents
 - [Hardware](#hardware)
