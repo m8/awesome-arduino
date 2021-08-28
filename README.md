@@ -1,11 +1,15 @@
-<h1 style="text-align:center">Awesome Arduino <br> <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a> </h1>
+<div align="center">
+
+<h1>Awesome Arduino <br> <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a> </h1>
 
 
-<div style="text-align: center"><img src="assets/banner.png"></div>
+<img src="assets/banner.png">
 
-<p style="text-align: center">
+<p>
 Arduino is an open-source physical computing platform based on a simple I/O board and a development environment that implements the Processing/Wiring language. Arduino can be used to develop stand-alone interactive objects or can be connected to software on your computer.
 </p>
+
+</div>
 
 ## Contents
 - [Hardware](#hardware)
