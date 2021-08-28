@@ -1,9 +1,7 @@
 <div align="center">
 
-<h1>Awesome Arduino <br> <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a> </h1>
 
-
-<img src="assets/banner.png">
+<h1><a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a> <br> <img src="assets/banner.png">  </h1>
 
 <p>
 Arduino is an open-source physical computing platform based on a simple I/O board and a development environment that implements the Processing/Wiring language. Arduino can be used to develop stand-alone interactive objects or can be connected to software on your computer.
