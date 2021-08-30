@@ -1,23 +1,35 @@
 <div align="center">
-
-
 <h1><a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a> <br> <img src="assets/banner.png">  </h1>
 
 <p>
 Arduino is an open-source physical computing platform based on a simple I/O board and a development environment that implements the Processing/Wiring language. Arduino can be used to develop stand-alone interactive objects or can be connected to software on your computer.
 </p>
-
 </div>
 
 ## Contents
-- [Hardware](#hardware)
-- [Software](#software)
-- [Projects](#projects)
-- [Resources](#resources)
-- [Community](#community)
+- [Official](#official)
+- [⚙️ Hardware](#️-hardware)
+  - [Boards](#boards)
+  - [Shields](#shields)
+  - [Compatible Boards](#compatible-boards)
+  - [Software Compatible Boards](#software-compatible-boards)
+- [💻 Software](#-software)
+  - [IDE](#ide)
+  - [Simulators](#simulators)
+  - [CAD](#cad)
+  - [Useful Tools](#useful-tools)
+- [💡 Projects](#-projects)
+- [Arduino-based Platforms](#arduino-based-platforms)
+- [📃 Resources](#-resources)
+  - [Books](#books)
+  - [Talks](#talks)
+  - [Tutorials](#tutorials)
+    - [Internals](#internals)
+    - [Software](#software)
+    - [Hardware](#hardware)
+- [🌍 Community](#-community)
 - [Contributing](#contributing)
 - [License](#license)
-
 
 ---
 
