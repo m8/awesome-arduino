@@ -80,7 +80,7 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 
 ### Simulators
 
-- [Tinkercad](https://www.tinkercad.com/things/flHpOFbJ1CN-arduino-simulator-and)
+- [Tinkercad](https://www.tinkercad.com/) - Very easy to use and learn directly from simulations.
   
 ### CAD
 
@@ -105,12 +105,12 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [Tele-Touch](https://www.youtube.com/watch?v=tMYQEaX3TbA) - Robotic system that mimicks user’s finger motions
 - [Solar Tracker](https://www.youtube.com/watch?v=_6QIutZfsFs) - Solar panel that follow the movement of the sun throughout the day
 - [Arduino Gimbal](https://www.youtube.com/watch?v=UxABxSADZ6U) - Educational purpose gimbal build with servos and gyroscope
-- [Motorized Camera Slider](https://www.youtube.com/watch?v=hEBjbSTLytk)
+- [Motorized Camera Slider](https://www.youtube.com/watch?v=hEBjbSTLytk) - Camera slider made with Arduino
 - [Micro Servo Robot](https://www.youtube.com/watch?v=bLnAJ-mSElE&t=0s) - 4 axis robot arm with a small gripper and teach function
-- [Stack Playing Robot](https://www.youtube.com/watch?v=uOsphjtf9Dk) - Simple robot that plays Stack
-- [Arduino Drone](https://www.youtube.com/watch?v=if9LZTcy_uk)
+- [Stack Playing Robot](https://www.youtube.com/watch?v=uOsphjtf9Dk) - Simple robot that plays Stack Game
+- [Arduino Drone](https://www.youtube.com/watch?v=if9LZTcy_uk) - Drones can be build from Arduino
 - [Arduino Garden Controller](https://www.youtube.com/watch?v=O_Q1WKCtWiA) - Automatic watering and data logging and gardening
-- [Arduino Soldering Station](https://www.youtube.com/watch?v=UvH49nzpJts)
+- [Arduino Soldering Station](https://www.youtube.com/watch?v=UvH49nzpJts) - Digital soldering station build with Arduino
 
 
 ## Arduino-based Platforms
