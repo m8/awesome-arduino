@@ -95,13 +95,13 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 
 ## 💡 Projects 
 
-- [Arduino Radar Project](https://www.youtube.com/watch?v=kQRYIH2HwfY) - Radar project with #HC-SR04 #Processing
+- [Arduino Radar Project](https://www.youtube.com/watch?v=kQRYIH2HwfY) - Radar project with ultrasonic sensor and Fritzing
 - [Collin's Lab: Guitar pedal hacking with Arduino](https://www.youtube.com/watch?v=_X0bL6WS-VY)
-- [Potted Plant Protector](https://www.youtube.com/watch?v=B8F44CyJRRA) - Monitor health of the plant with #Arduino-UNO
-- [8x8x8 Led Cube](https://www.youtube.com/watch?v=T5Aq7cRc-mU)
-- [Wireless Arduino Powered Chess](https://www.youtube.com/watch?v=dX37LFv8jWY) - Wireless chess powered with #Arduino
+- [Potted Plant Protector](https://www.youtube.com/watch?v=B8F44CyJRRA) - Health monitoring of plants with Arduino
+- [8x8x8 Led Cube](https://www.youtube.com/watch?v=T5Aq7cRc-mU) - Interactive 8x8x8 led cube build with Arduino
+- [Wireless Arduino Powered Chess](https://www.youtube.com/watch?v=dX37LFv8jWY) - Wireless and mechnaical chess build with Arduino
 - [Brainwave and Blink-Controlled Miniature Wheelchair](https://www.youtube.com/watch?v=iFBhTHGXcMQ) - #arduino-uno #android #neurosky
-- [Powerful Electric Motorized Longboard](https://www.youtube.com/watch?v=XworvxoQleY) - arduino powered diy electric longboard
+- [Powerful Electric Motorized Longboard](https://www.youtube.com/watch?v=XworvxoQleY) - Arduino powered diy electric longboard
 - [Tele-Touch](https://www.youtube.com/watch?v=tMYQEaX3TbA) - Robotic system that mimicks user’s finger motions
 - [Solar Tracker](https://www.youtube.com/watch?v=_6QIutZfsFs) - Solar panel that follow the movement of the sun throughout the day
 - [Arduino Gimbal](https://www.youtube.com/watch?v=UxABxSADZ6U) - Educational purpose gimbal build with servos and gyroscope
@@ -138,7 +138,7 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 #### Internals
 
 - [An Introduction to the Arduino](https://www.youtube.com/watch?v=CqrQmQqpHXc)
-- [Level Up Your Arduino Code](https://www.youtube.com/watch?v=mhSW_5iuy5k&list=PL1UO27YmKW8P8BlRTncqQ1x_wvFiHu8HI) - Playlist from Sparkfun Electronics
+- [Level Up Your Arduino Code](https://www.youtube.com/watch?v=mhSW_5iuy5k&list=PL1UO27YmKW8P8BlRTncqQ1x_wvFiHu8HI)
 - [Library, Port Manipulation, Bit Math, Faster PWM/ADC](https://www.youtube.com/watch?v=EVm0qVJ56II) 
 
 #### Software
