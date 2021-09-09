@@ -2,9 +2,7 @@
 
 <img src="assets/banner.png">
 
-# Awesome Arduino
-
-<a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a><br>
+# Awesome Arduino <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a><br>
 
 Collections of awesome Arduino boards, projects, ideas etc.
 
@@ -12,28 +10,12 @@ Collections of awesome Arduino boards, projects, ideas etc.
 
 ## Contents
 - [Official](#official)
-- [⚙️ Hardware](#️-hardware)
-  - [Boards](#boards)
-  - [Shields](#shields)
-  - [Compatible Boards](#compatible-boards)
-  - [Software Compatible Boards](#software-compatible-boards)
-- [💻 Software](#-software)
-  - [IDE](#ide)
-  - [Simulators](#simulators)
-  - [CAD](#cad)
-  - [Useful Tools](#useful-tools)
-- [💡 Projects](#-projects)
+- [Hardware](#️hardware)
+- [Software](#software)
+- [Projects](#projects)
 - [Arduino-based Platforms](#arduino-based-platforms)
-- [📃 Resources](#-resources)
-  - [Books](#books)
-  - [Talks](#talks)
-  - [Tutorials](#tutorials)
-    - [Internals](#internals)
-    - [Software](#software)
-    - [Hardware](#hardware)
-- [🌍 Community](#-community)
-- [Contributing](#contributing)
-- [License](#license)
+- [Resources](#resources)
+- [Community](#community)
 
 ---
 
@@ -45,28 +27,28 @@ Collections of awesome Arduino boards, projects, ideas etc.
 - [Store](https://store.arduino.cc/usa/)
 
 
-## ⚙️ Hardware 
+## Hardware 
 
 ### Boards 
 
-- [Arduino Uno Rev3](https://store.arduino.cc/usa/arduino-uno-rev3) - Most popular Arduino board in market
-- [Arduino Mega 2560 Rev3](https://store.arduino.cc/usa/mega-2560-r3) - 
-- [Arduino Leonardo](https://store.arduino.cc/usa/leonardo) - 
-- [Arduino Nano](https://store.arduino.cc/usa/arduino-nano) - Good for small sized projects
-- [Arduino Micro](https://store.arduino.cc/usa/arduino-zero) - Combination of Arduino Nano and Atmega32u4
-- [Arduino Yún](https://store.arduino.cc/usa/arduino-yun) Retired
+- [Arduino Uno Rev3](https://store.arduino.cc/usa/arduino-uno-rev3)
+- [Arduino Mega 2560 Rev3](https://store.arduino.cc/usa/mega-2560-r3)
+- [Arduino Leonardo](https://store.arduino.cc/usa/leonardo)
+- [Arduino Nano](https://store.arduino.cc/usa/arduino-nano)
+- [Arduino Micro](https://store.arduino.cc/usa/arduino-zero)
+- [Arduino Yún](https://store.arduino.cc/usa/arduino-yun)
 
 
 ### Shields
 
 - [Arduino Education Shield](https://store.arduino.cc/usa/education-shield) - Educational purpose Arduino shield
 - [Arduino Motor Shield Rev3](https://store.arduino.cc/usa/arduino-motor-shield-rev3) - Use DC motors with Arduino 
-- [Arduino Ethernet Shield 2](https://store.arduino.cc/usa/arduino-ethernet-shield-2) - Connect to your Arduino over ethernet
+- [Arduino Ethernet Shield 2](https://store.arduino.cc/usa/arduino-ethernet-shield-2) - Connect your Arduino to internet ove ethernet
 - [Adafruit Touch Shield for Arduino with Resistive Touch Screen](https://www.adafruit.com/product/1651) - Touch screen for Arduino
 - [Adafruit 16-Channel 12-bit PWM/Servo Shield](https://www.adafruit.com/product/1411) - Control dozens of motors through I2C
 
 
-## 💻 Software 
+## Software 
 
 ### IDE
 
@@ -91,7 +73,7 @@ Collections of awesome Arduino boards, projects, ideas etc.
 - [Johnny-Five](https://github.com/rwaldron/johnny-five) - The JavaScript robotics programming framework for Arduino
 - [Blynk](https://github.com/blynkkk/blynk-library) - Popular IOT platform that can connect hardware (including Arduino) to cloud
 
-## 💡 Projects 
+## Projects 
 
 - [Arduino Radar Project](https://www.youtube.com/watch?v=kQRYIH2HwfY) - Radar project with ultrasonic sensor and Fritzing
 - [Potted Plant Protector](https://www.youtube.com/watch?v=B8F44CyJRRA) - Health monitoring of plants with Arduino
@@ -117,7 +99,7 @@ Collections of awesome Arduino boards, projects, ideas etc.
 - [mBot](https://www.makeblock.com/) - mBot is a low-cost and easy-to-use robot kit designed for children to use and learn to program.
 
 
-## 📃 Resources
+## Resources
 
 ### Books
 
@@ -150,7 +132,7 @@ Collections of awesome Arduino boards, projects, ideas etc.
 - [How to Solder Properly](https://www.youtube.com/watch?v=VxMV6wGS3NY)
 
 
-## 🌍 Community
+## Community
 
 - [Arduino Forum](https://forum.arduino.cc/)
 - [Arduino Stack Exchange](https://arduino.stackexchange.com/)
@@ -161,7 +143,3 @@ Collections of awesome Arduino boards, projects, ideas etc.
 ## Contributing
 
 Please see contributing file.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
