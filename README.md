@@ -117,8 +117,8 @@ Collections of awesome Arduino boards, projects, ideas etc.
 
 ### Talks
 
-- [How Arduino is open-sourcing imagination](https://www.youtube.com/watch?v=UoBUXOOdLXY)
-- [State of Arduino: Massimo Banzi at Maker Faire Bay Area 2019](https://www.youtube.com/watch?v=t1MN5o-qeyQ)
+- [How Arduino is open-sourcing imagination](https://www.youtube.com/watch?v=UoBUXOOdLXY) - A talk from Massimo Banzi about Arduino
+- [State of Arduino: Massimo Banzi at Maker Faire Bay Area 2019](https://www.youtube.com/watch?v=t1MN5o-qeyQ) - A talk from Massimo Banzi about Arduino
 
 ### Tutorials
 
