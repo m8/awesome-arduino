@@ -85,12 +85,12 @@ Collections of awesome Arduino boards, projects, ideas etc.
 
 ## Projects 
 
-- [Arduino Radar Project](https://www.youtube.com/watch?v=kQRYIH2HwfY) - Radar project with ultrasonic sensor and Fritzing
+- [Arduino Radar Project](https://www.youtube.com/watch?v=kQRYIH2HwfY) - Radar project with ultrasonic sensor
 - [Potted Plant Protector](https://www.youtube.com/watch?v=B8F44CyJRRA) - Health monitoring of plants with Arduino
 - [8x8x8 Led Cube](https://www.youtube.com/watch?v=T5Aq7cRc-mU) - Interactive 8x8x8 led cube build with Arduino
 - [Wireless Arduino Powered Chess](https://www.youtube.com/watch?v=dX37LFv8jWY) - Wireless and mechnaical chess build with Arduino
-- [Brainwave and Blink-Controlled Miniature Wheelchair](https://www.youtube.com/watch?v=iFBhTHGXcMQ) - #arduino-uno #android #neurosky
-- [Powerful Electric Motorized Longboard](https://www.youtube.com/watch?v=XworvxoQleY) - Arduino powered diy electric longboard
+- [Brainwave and Blink-Controlled Miniature Wheelchair](https://www.youtube.com/watch?v=iFBhTHGXcMQ) - Mind controllable chair with Arduinp
+- [Powerful Electric Motorized Longboard](https://www.youtube.com/watch?v=XworvxoQleY) - Arduino powered DIY electric longboard
 - [Tele-Touch](https://www.youtube.com/watch?v=tMYQEaX3TbA) - Robotic system that mimicks user’s finger motions
 - [Solar Tracker](https://www.youtube.com/watch?v=_6QIutZfsFs) - Solar panel that follow the movement of the sun throughout the day
 - [Arduino Gimbal](https://www.youtube.com/watch?v=UxABxSADZ6U) - Educational purpose gimbal build with servos and gyroscope
@@ -105,7 +105,6 @@ Collections of awesome Arduino boards, projects, ideas etc.
 ## Arduino-based Platforms
 
 - [Ardupilot](https://ardupilot.org/) - Versatile, Trusted, Open Autopilot software for drones and other autonomous systems
-- [Marlin](https://marlinfw.org) - Marlin is an open source firmware for 3D printers.
 - [mBot](https://www.makeblock.com/) - mBot is a low-cost and easy-to-use robot kit designed for children to use and learn to program.
 
 
