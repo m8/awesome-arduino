@@ -2,7 +2,9 @@
 
 <img src="assets/banner.png">
 
-# Awesome Arduino <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a><br>
+# Awesome Arduino
+
+[![Awesome Badge](https://awesome.re/badge.svg)](https://awesome.re)
 
 Collections of awesome Arduino boards, projects, ideas etc.
 
@@ -10,13 +12,21 @@ Collections of awesome Arduino boards, projects, ideas etc.
 
 ## Contents
 - [Official](#official)
-- [Hardware](#️hardware)
+- [Hardware](#hardware)
+  - [Boards](#boards)
+  - [Shields](#shields)
 - [Software](#software)
+  - [IDE](#ide)
+  - [Simulators](#simulators)
+  - [CAD](#cad)
+  - [Useful Tools](#useful-tools)
 - [Projects](#projects)
 - [Arduino-based Platforms](#arduino-based-platforms)
 - [Resources](#resources)
+  - [Books](#books)
+  - [Talks](#talks)
+  - [Tutorials](#tutorials)
 - [Community](#community)
-
 ---
 
 ## Official
@@ -139,7 +149,3 @@ Collections of awesome Arduino boards, projects, ideas etc.
 - [Discord Group](https://discord.gg/jQJFwW7)
 - [Project Hub](https://create.arduino.cc/projecthub)
 - [Reddit](https://www.reddit.com/r/arduino/)
-
-## Contributing
-
-Please see contributing file.
