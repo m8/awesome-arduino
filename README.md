@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png">
+![Awesom-Arduino Banner](assets/banner.png)
 
 # Awesome Arduino
 
