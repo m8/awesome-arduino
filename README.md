@@ -51,11 +51,11 @@ Collections of awesome Arduino boards, projects, ideas etc.
 
 ### Shields
 
-- [Arduino Education Shield](https://store.arduino.cc/usa/education-shield) - Educational purpose Arduino shield
-- [Arduino Motor Shield Rev3](https://store.arduino.cc/usa/arduino-motor-shield-rev3) - Use DC motors with Arduino 
-- [Arduino Ethernet Shield 2](https://store.arduino.cc/usa/arduino-ethernet-shield-2) - Connect your Arduino to internet over ethernet
-- [Adafruit Touch Shield for Arduino with Resistive Touch Screen](https://www.adafruit.com/product/1651) - Touch screen for Arduino
-- [Adafruit 16-Channel 12-bit PWM/Servo Shield](https://www.adafruit.com/product/1411) - Control dozens of motors through I2C
+- [Arduino Education Shield](https://store.arduino.cc/usa/education-shield) - Educational purpose Arduino shield.
+- [Arduino Motor Shield Rev3](https://store.arduino.cc/usa/arduino-motor-shield-rev3) - Use DC motors with Arduino.
+- [Arduino Ethernet Shield 2](https://store.arduino.cc/usa/arduino-ethernet-shield-2) - Connect your Arduino to internet over ethernet.
+- [Adafruit Touch Shield for Arduino with Resistive Touch Screen](https://www.adafruit.com/product/1651) - Touch screen for Arduino.
+- [Adafruit 16-Channel 12-bit PWM/Servo Shield](https://www.adafruit.com/product/1411) - Control dozens of motors through I2C.
 
 
 ## Software 
@@ -80,7 +80,7 @@ Collections of awesome Arduino boards, projects, ideas etc.
 
 - [Arduino CLI](https://github.com/arduino/arduino-cli) - Command line interface for Arduino sketches, libraries, boards, etc.
 - [Putty](https://www.putty.org/) - Open-source serial console and terminal emulator.
-- [Johnny-Five](https://github.com/rwaldron/johnny-five) - The JavaScript robotics programming framework for Arduino
+- [Johnny-Five](https://github.com/rwaldron/johnny-five) - The JavaScript robotics programming framework for Arduino.
 - [Blynk](https://github.com/blynkkk/blynk-library) - Popular IOT platform that can connect hardware (including Arduino) to cloud.
 
 ## Projects 
