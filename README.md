@@ -37,7 +37,7 @@ Collections of awesome Arduino boards, projects, ideas etc.
 - [Store](https://store.arduino.cc/usa/)
 
 
-## Hardware 
+## ⚙️ Hardware 
 
 ### Boards 
 
