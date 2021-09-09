@@ -1,9 +1,13 @@
 <div align="center">
-<h1><a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a> <br> <img src="assets/banner.png">  </h1>
 
-<p>
-Arduino is an open-source physical computing platform based on a simple I/O board and a development environment that implements the Processing/Wiring language. Arduino can be used to develop stand-alone interactive objects or can be connected to software on your computer.
-</p>
+<img src="assets/banner.png">
+
+# Awesome Arduino
+
+<a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a><br>
+
+Collections of awesome Arduino boards, projects, ideas etc.
+
 </div>
 
 ## Contents
@@ -55,17 +59,11 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 
 ### Shields
 
-- [Arduino Education Shield](https://store.arduino.cc/usa/education-shield)
-- [Arduino Motor Shield Rev3](https://store.arduino.cc/usa/arduino-motor-shield-rev3)
-- [Arduino Ethernet Shield 2](https://store.arduino.cc/usa/arduino-ethernet-shield-2)
-- [Adafruit Touch Shield for Arduino with Resistive Touch Screen](https://www.adafruit.com/product/1651)
-- [Adafruit 16-Channel 12-bit PWM/Servo Shield](https://www.adafruit.com/product/1411)
-
-### Compatible Boards
-
-- 
-
-### Software Compatible Boards
+- [Arduino Education Shield](https://store.arduino.cc/usa/education-shield) - Educational purpose Arduino shield
+- [Arduino Motor Shield Rev3](https://store.arduino.cc/usa/arduino-motor-shield-rev3) - Use DC motors with Arduino 
+- [Arduino Ethernet Shield 2](https://store.arduino.cc/usa/arduino-ethernet-shield-2) - Connect to your Arduino over ethernet
+- [Adafruit Touch Shield for Arduino with Resistive Touch Screen](https://www.adafruit.com/product/1651) - Touch screen for Arduino
+- [Adafruit 16-Channel 12-bit PWM/Servo Shield](https://www.adafruit.com/product/1411) - Control dozens of motors through I2C
 
 
 ## 💻 Software 
@@ -76,7 +74,7 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 - [Arduino Editor](https://create.arduino.cc/editor) - Official Online Arduino Editor
 - [S4A](http://s4a.cat/) - Arduino can programmed over Scratch interface good for first begginers and kids.
 - [Visual Studio Code extension for Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino) - Arduino Extenstion for Visual Studio
-- [Arduino IDE 2.x Beta](https://github.com/arduino/arduino-ide)
+- [Arduino IDE 2.x Beta](https://github.com/arduino/arduino-ide) - Beta Arduino IDE
 
 ### Simulators
 
@@ -96,7 +94,6 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 ## 💡 Projects 
 
 - [Arduino Radar Project](https://www.youtube.com/watch?v=kQRYIH2HwfY) - Radar project with ultrasonic sensor and Fritzing
-- [Collin's Lab: Guitar pedal hacking with Arduino](https://www.youtube.com/watch?v=_X0bL6WS-VY)
 - [Potted Plant Protector](https://www.youtube.com/watch?v=B8F44CyJRRA) - Health monitoring of plants with Arduino
 - [8x8x8 Led Cube](https://www.youtube.com/watch?v=T5Aq7cRc-mU) - Interactive 8x8x8 led cube build with Arduino
 - [Wireless Arduino Powered Chess](https://www.youtube.com/watch?v=dX37LFv8jWY) - Wireless and mechnaical chess build with Arduino
@@ -117,7 +114,6 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 
 - [Ardupilot](https://ardupilot.org/) - Versatile, Trusted, Open Autopilot software for drones and other autonomous systems
 - [Marlin](https://marlinfw.org) - Marlin is an open source firmware for 3D printers.
-- [QMK](https://github.com/qmk/qmk_firmware) - Build your own mechanical keyboard
 - [mBot](https://www.makeblock.com/) - mBot is a low-cost and easy-to-use robot kit designed for children to use and learn to program.
 
 
@@ -143,7 +139,7 @@ Arduino is an open-source physical computing platform based on a simple I/O boar
 
 #### Software
 
-- [C# to Arduino Communication](https://www.youtube.com/watch?v=vHeG3Gt6STE) - Send data and commands from Computer to an Arduino
+- [C# to Arduino Communication](https://www.youtube.com/watch?v=vHeG3Gt6STE)
 - [Processing to Arduino Communication](https://www.youtube.com/watch?v=yOMglntmmnA)
 
 #### Hardware
