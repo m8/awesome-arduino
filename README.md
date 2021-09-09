@@ -62,11 +62,11 @@ Collections of awesome Arduino boards, projects, ideas etc.
 
 ### IDE
 
-- [Arduino IDE](https://github.com/arduino/Arduino) - Official Arduino IDE
-- [Arduino Editor](https://create.arduino.cc/editor) - Official Online Arduino Editor
+- [Arduino IDE](https://github.com/arduino/Arduino) - Official Arduino IDE.
+- [Arduino Editor](https://create.arduino.cc/editor) - Official Online Arduino Editor.
 - [S4A](http://s4a.cat/) - Arduino can programmed over Scratch interface good for first begginers and kids.
-- [Visual Studio Code extension for Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino) - Arduino Extenstion for Visual Studio
-- [Arduino IDE 2.x Beta](https://github.com/arduino/arduino-ide) - Beta Arduino IDE
+- [Visual Studio Code extension for Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino) - Arduino Extenstion for Visual Studio.
+- [Arduino IDE 2.x Beta](https://github.com/arduino/arduino-ide) - Beta Arduino IDE.
 
 ### Simulators
 
@@ -79,32 +79,32 @@ Collections of awesome Arduino boards, projects, ideas etc.
 ### Useful Tools
 
 - [Arduino CLI](https://github.com/arduino/arduino-cli) - Command line interface for Arduino sketches, libraries, boards, etc.
-- [Putty](https://www.putty.org/) - Open-source serial console and terminal emulator
+- [Putty](https://www.putty.org/) - Open-source serial console and terminal emulator.
 - [Johnny-Five](https://github.com/rwaldron/johnny-five) - The JavaScript robotics programming framework for Arduino
-- [Blynk](https://github.com/blynkkk/blynk-library) - Popular IOT platform that can connect hardware (including Arduino) to cloud
+- [Blynk](https://github.com/blynkkk/blynk-library) - Popular IOT platform that can connect hardware (including Arduino) to cloud.
 
 ## Projects 
 
-- [Arduino Radar Project](https://www.youtube.com/watch?v=kQRYIH2HwfY) - Radar project with ultrasonic sensor
-- [Potted Plant Protector](https://www.youtube.com/watch?v=B8F44CyJRRA) - Health monitoring of plants with Arduino
-- [8x8x8 Led Cube](https://www.youtube.com/watch?v=T5Aq7cRc-mU) - Interactive 8x8x8 led cube build with Arduino
-- [Wireless Arduino Powered Chess](https://www.youtube.com/watch?v=dX37LFv8jWY) - Wireless and mechnaical chess build with Arduino
-- [Brainwave and Blink-Controlled Miniature Wheelchair](https://www.youtube.com/watch?v=iFBhTHGXcMQ) - Mind controllable chair with Arduinp
-- [Powerful Electric Motorized Longboard](https://www.youtube.com/watch?v=XworvxoQleY) - Arduino powered DIY electric longboard
-- [Tele-Touch](https://www.youtube.com/watch?v=tMYQEaX3TbA) - Robotic system that mimicks user’s finger motions
-- [Solar Tracker](https://www.youtube.com/watch?v=_6QIutZfsFs) - Solar panel that follow the movement of the sun throughout the day
-- [Arduino Gimbal](https://www.youtube.com/watch?v=UxABxSADZ6U) - Educational purpose gimbal build with servos and gyroscope
-- [Motorized Camera Slider](https://www.youtube.com/watch?v=hEBjbSTLytk) - Camera slider made with Arduino
-- [Micro Servo Robot](https://www.youtube.com/watch?v=bLnAJ-mSElE&t=0s) - 4 axis robot arm with a small gripper and teach function
-- [Stack Playing Robot](https://www.youtube.com/watch?v=uOsphjtf9Dk) - Simple robot that plays Stack Game
-- [Arduino Drone](https://www.youtube.com/watch?v=if9LZTcy_uk) - Drones can be build from Arduino
-- [Arduino Garden Controller](https://www.youtube.com/watch?v=O_Q1WKCtWiA) - Automatic watering and data logging and gardening
-- [Arduino Soldering Station](https://www.youtube.com/watch?v=UvH49nzpJts) - Digital soldering station build with Arduino
+- [Arduino Radar Project](https://www.youtube.com/watch?v=kQRYIH2HwfY) - Radar project with ultrasonic sensor.
+- [Potted Plant Protector](https://www.youtube.com/watch?v=B8F44CyJRRA) - Health monitoring of plants with Arduino.
+- [8x8x8 Led Cube](https://www.youtube.com/watch?v=T5Aq7cRc-mU) - Interactive 8x8x8 led cube build with Arduino.
+- [Wireless Arduino Powered Chess](https://www.youtube.com/watch?v=dX37LFv8jWY) - Wireless and mechnaical chess build with Arduino.
+- [Brainwave and Blink-Controlled Miniature Wheelchair](https://www.youtube.com/watch?v=iFBhTHGXcMQ) - Mind controllable chair with Arduino.
+- [Powerful Electric Motorized Longboard](https://www.youtube.com/watch?v=XworvxoQleY) - Arduino powered DIY electric longboard.
+- [Tele-Touch](https://www.youtube.com/watch?v=tMYQEaX3TbA) - Robotic system that mimicks user's finger motions.
+- [Solar Tracker](https://www.youtube.com/watch?v=_6QIutZfsFs) - Solar panel that follow the movement of the sun throughout the day.
+- [Arduino Gimbal](https://www.youtube.com/watch?v=UxABxSADZ6U) - Educational purpose gimbal build with servos and gyroscope.
+- [Motorized Camera Slider](https://www.youtube.com/watch?v=hEBjbSTLytk) - Camera slider made with Arduino.
+- [Micro Servo Robot](https://www.youtube.com/watch?v=bLnAJ-mSElE&t=0s) - 4 axis robot arm with a small gripper and teach function.
+- [Stack Playing Robot](https://www.youtube.com/watch?v=uOsphjtf9Dk) - Simple robot that plays Stack Game.
+- [Arduino Drone](https://www.youtube.com/watch?v=if9LZTcy_uk) - Drones can be build from Arduino.
+- [Arduino Garden Controller](https://www.youtube.com/watch?v=O_Q1WKCtWiA) - Automatic watering and data logging and gardening.
+- [Arduino Soldering Station](https://www.youtube.com/watch?v=UvH49nzpJts) - Digital soldering station build with Arduino.
 
 
 ## Arduino-based Platforms
 
-- [Ardupilot](https://ardupilot.org/) - Versatile, Trusted, Open Autopilot software for drones and other autonomous systems
+- [Ardupilot](https://ardupilot.org/) - Versatile, Trusted, Open Autopilot software for drones and other autonomous systems.
 - [mBot](https://www.makeblock.com/) - mBot is a low-cost and easy-to-use robot kit designed for children to use and learn to program.
 
 
@@ -117,8 +117,8 @@ Collections of awesome Arduino boards, projects, ideas etc.
 
 ### Talks
 
-- [How Arduino is open-sourcing imagination](https://www.youtube.com/watch?v=UoBUXOOdLXY) - A talk from Massimo Banzi about Arduino
-- [State of Arduino: Massimo Banzi at Maker Faire Bay Area 2019](https://www.youtube.com/watch?v=t1MN5o-qeyQ) - A talk from Massimo Banzi about Arduino
+- [How Arduino is open-sourcing imagination](https://www.youtube.com/watch?v=UoBUXOOdLXY) - A talk from Massimo Banzi about Arduino.
+- [State of Arduino: Massimo Banzi at Maker Faire Bay Area 2019](https://www.youtube.com/watch?v=t1MN5o-qeyQ) - A talk from Massimo Banzi about Arduino.
 
 ### Tutorials
 
