@@ -148,3 +148,7 @@ Collections of awesome Arduino boards, projects, ideas etc.
 - [Discord Group](https://discord.gg/jQJFwW7)
 - [Project Hub](https://create.arduino.cc/projecthub)
 - [Reddit](https://www.reddit.com/r/arduino/)
+
+## Contributing
+
+Please see [contributing file](CONTRIBUTING.md).
