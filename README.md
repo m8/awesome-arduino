@@ -71,6 +71,7 @@ Collections of awesome Arduino boards, projects, ideas etc.
 ### Simulators
 
 - [Tinkercad](https://www.tinkercad.com/) - Very easy to use and learn directly from simulations.
+- [SolderHub Simulator](https://simulator.solderhub.com) - Open-source, browser-based Arduino/ESP32 circuit simulator, no installs required.
   
 ### CAD
 
