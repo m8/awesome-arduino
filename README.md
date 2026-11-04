@@ -75,6 +75,7 @@ Collections of awesome Arduino boards, projects, ideas etc.
 ### CAD
 
 - [Fritzing](https://fritzing.org/) - Easy to use CAD software for prototyping Arduino circuits and creating PCB's.
+- [SOMA](https://somacad.app/) - Open-source desktop app for designing 3D-printable enclosures and mounts in CadQuery together with an AI coding agent.
 
 ### Useful Tools
 
