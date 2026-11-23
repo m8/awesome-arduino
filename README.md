@@ -82,6 +82,7 @@ Collections of awesome Arduino boards, projects, ideas etc.
 - [Putty](https://www.putty.org/) - Open-source serial console and terminal emulator.
 - [Johnny-Five](https://github.com/rwaldron/johnny-five) - The JavaScript robotics programming framework for Arduino.
 - [Blynk](https://github.com/blynkkk/blynk-library) - Popular IOT platform that can connect hardware (including Arduino) to cloud.
+- [SerialSpan](https://github.com/eleree/SerialSpan) - Self-hosted browser tool for sharing an Arduino or other embedded device's serial port across computers, with Local-approved remote access and relay fallback.
 
 ## Projects 
 
